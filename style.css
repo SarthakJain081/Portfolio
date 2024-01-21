@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.first-page {
+    margin: 0;
+    height: 100vh;
+    background-image: linear-gradient(rgb(0, 48, 73), rgb(29, 29, 29));
+}
+
+.name {
+    font-size: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    position: relative;
+    top: 40%;
+    color: rgb(102, 155, 188);
+}
+
+.about {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    position: relative;
+    top: 40%;
+    color: rgb(102, 155, 188);
+}
+
+footer {
+    background-image: linear-gradient(rgb(0, 48, 73), rgb(29, 29, 29));
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Copyright {
+    color: rgb(102, 155, 188);
+}
